@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Machine Learning & Artificial Intelligence Projects.<br>I'm looking to collaborate on any Big Data Machine Learning projects relating to data science.<br>I'm looking for help in using TensorFlow for Deep Learning.<br>I'm currently learning how to develop a Face Recognition system.<br>Feel free to ask me about my studies at the University of Hull alongside my upcoming projects<br>
+Currently working on Machine Learning & Artificial Intelligence Projects.<br>I'm looking to collaborate on any Big Data Machine Learning projects.<br>I'm looking for help in using TensorFlow for Deep Learning.<br>I'm currently learning how to develop a Face Recognition system.<br>Feel free to ask me about my studies at the University of Hull alongside my upcoming projects<br>
 
 
 ## 🌐 Socials:
