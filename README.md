@@ -21,4 +21,3 @@ Currently working on Machine Learning & Artificial Intelligence Projects.<br>I'm
 ---
 [![](https://visitcount.itsvg.in/api?id=ThomasHughesUoH&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
