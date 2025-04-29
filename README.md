@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Machine Learning & Artificial Intelligence Projects.<br>I'm looking to collaborate on any Big Data Machine Learning projects.<br>I'm looking for help in using TensorFlow for Deep Learning.<br>I'm currently learning how to develop a Face Recognition system.<br>Feel free to ask me about my studies at the University of Hull alongside my upcoming projects<br>
+I'm an AI Developer passionate about building intelligent, scalable systems with Large Language Models (LLMs), NLP, and Generative AI. With over 13 years of Python experience and a First-Class Honours degree in Computer Science, I focus on crafting secure, regulation-compliant AI solutions that drive real-world impact. I specialize in agentic programming, RAG workflows, cloud-native deployments, and full-stack development. I'm continuously exploring innovations at the intersection of AI, ethical development, and scalable architectures.
 
 
 ## 🌐 Socials:
